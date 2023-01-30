@@ -1,0 +1,104 @@
+h1{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    
+}
+
+h3{
+    font-size: 20px;
+}
+
+header, section, footer, nav, aside, article{
+    
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    text-align: center;
+}
+
+div{
+    
+    margin: 15px auto;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: #d2dae2;
+    width: 960px;
+     
+}
+
+.ye{
+    background-color: #ffcccc;
+    border: 1px solid black;
+}
+
+.kdot{
+    background-color: #7efff5;
+    border: 1px solid black;
+    
+}
+
+.menu{
+    background-color:#cd84f1;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+.menu li{
+    list-style: none;
+    padding: 5px;
+    display: inline-block;
+}
+
+.seccion{
+    margin: 20px;
+    width: 600px;
+    float: left;
+
+}
+
+article{
+    margin-bottom: 15px;
+    padding: 20px;
+}
+
+.columna{
+    width: 250px;
+    border: 1px solid black;
+    float: left;
+    margin: 20px 0px;
+
+}
+
+.pie{
+    clear:both;
+}
+
+.btn{
+    width: 200px;
+    margin: 20px 0px;
+}
+
+button{
+    width: 250px;
+    height: 50px;
+    border: 1px solid black;
+    float: left;
+    background-color:#ffcccc ;
+    font-size: medium;
+    font-weight: bold ; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.contenedor{
+
+    width: 250px;
+    border: 1px solid black;
+    float: left;
+    margin: 20px 0px;
+    background-color:#ffcccc;
+
+}
